@@ -11,3 +11,6 @@ Makefile
 Makefile.in
 stamp-h1
 missing
+
+.cproject
+.project

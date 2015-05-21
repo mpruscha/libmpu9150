@@ -36,6 +36,8 @@ THE SOFTWARE.
 
 #include "MPU9150.h"
 
+#include <stdint.h>
+
 /** Default constructor, uses default I2C address.
  * @see MPU9150_DEFAULT_ADDRESS
  */
